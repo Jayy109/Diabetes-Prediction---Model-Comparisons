@@ -1,1 +1,1 @@
-# Dieabetes-Prediction---Model-Comparisons
+# Diabetes-Prediction---Model-Comparisons
